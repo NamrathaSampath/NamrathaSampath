@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NamrathaSampath
+- 👀 I’m interested in roles such as Data Analyst, Data Scientist, Business Analyst and Business Intelligence Analyst
+- 🌱 I’m currently pursuing a Masters of Science in Data Analytics
+- 💞️ I’m looking to collaborate with industry intellectuals who can provide me a good learning environment with a competitive salary.
+- 📫 How to reach me:
+- Email : namratha.sampathkumar@sjsu.edu
+- LinkedIn : https://www.linkedin.com/in/namratha-sampath-7ba5051a0/
