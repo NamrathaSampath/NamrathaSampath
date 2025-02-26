@@ -1,4 +1,5 @@
 **Namratha Sampath Kumar** 
+
 🔍 Data Analyst | Data Scientist | BI Enthusiast  
 🎓 M.S. in Data Analytics | San Jose State University (Jan 2023 - Dec 2024)  
 
