@@ -19,5 +19,5 @@
 🏥 **Healthcare Analytics Expertise:** Quality Metrics Tracking, Data Processing, Medicare/Medicaid Data Analysis, Claims Data Management, Healthcare Quality Metrics (HEDIS Measures), HIPAA Compliance, CMS Compliance, Epic Analytics  
 
 🔹 **Curious About My Work?**  
-🚀 **Check It Out Here:** [GitHub](https://github.com/NamrathaSampath?tab=repositories)  
+🚀 **Check Out My Repo:** [GitHub](https://github.com/NamrathaSampath?tab=repositories)  
 🔗 **Connect With Me on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/namratha1911/)  
