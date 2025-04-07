@@ -12,7 +12,7 @@ Passionate About Uncovering Insights Hidden in Data and Transforming Numbers Int
 🔹 **Tools & Technologies**  
 **Languages:** Python, SQL, R  
 **Data Science:** NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Seaborn  
-**Databases:** MySQL, MS SQL Server, MongoDB, Google BigQuery, AWS Redshift, Databricks, Snowflake  
+**Databases:** MySQL, MS SQL Server, MongoDB, Google BigQuery, AWS Redshift, Snowflake  
 **Big Data & ETL:** SSIS, Informatica, Apache Airflow, Apache Hadoop, Apache Kafka, Apache Hive, MAGE  
 **Cloud & Visualization:** Google Cloud Platform, AWS, Microsoft Azure, Tableau, Power BI, Sigma Computing  
 **PM Tools & Other:** JIRA, SharePoint, Microsoft Suite, GitLab, Docker, VBA, Advanced Excel (VLOOKUP, Pivot Tables)  
