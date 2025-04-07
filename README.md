@@ -14,7 +14,7 @@ Passionate About Uncovering Insights Hidden in Data and Transforming Numbers Int
 **Data Science:** NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Seaborn  
 **Databases:** MySQL, MS SQL Server, MongoDB, Google BigQuery, AWS Redshift, Databricks, Snowflake  
 **Big Data & ETL:** SSIS, Informatica, Apache Airflow, Apache Hadoop, Apache Kafka, Apache Hive, MAGE  
-☁**Cloud & Visualization:** Google Cloud Platform, AWS, Microsoft Azure, Tableau, Power BI, Sigma Computing  
+**Cloud & Visualization:** Google Cloud Platform, AWS, Microsoft Azure, Tableau, Power BI, Sigma Computing  
 **PM Tools & Other:** JIRA, SharePoint, Microsoft Suite, GitLab, Docker, VBA, Advanced Excel (VLOOKUP, Pivot Tables)  
 **Healthcare Analytics Expertise:** Quality Metrics Tracking, Medicare/Medicaid Data Analysis, Claims Data Management, Healthcare Quality Metrics (HEDIS Measures), HIPAA Compliance, CMS Compliance, Epic Analytics  
 
