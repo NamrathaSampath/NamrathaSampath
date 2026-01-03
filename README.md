@@ -5,9 +5,6 @@ M.S. in Data Analytics | San Jose State University (Jan 2023 - Dec 2024)
 
 Passionate About Uncovering Insights Hidden in Data and Transforming Numbers Into Strategic Decisions. From Building Predictive Models to Crafting Interactive Dashboards, I Love Making Data Tell a Story!  
 
-🔹 **Experience at a Glance**  
-**Data Analyst** – CGI Inc. (May 2021 – Jan 2023)  
-**Software Developer Intern** – Cybersoft Technologies (Feb 2019 – Apr 2019)  
 
 🔹 **Tools & Technologies**  
 **Languages:** Python, SQL, R  
