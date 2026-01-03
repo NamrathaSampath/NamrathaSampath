@@ -20,4 +20,4 @@ Passionate About Uncovering Insights Hidden in Data and Transforming Numbers Int
 
 🔹 **Curious About My Work?**  
 **Check Out My Repo:** [GitHub](https://github.com/NamrathaSampath?tab=repositories)  
-**Connect With Me on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/namratha1911/)  
+
